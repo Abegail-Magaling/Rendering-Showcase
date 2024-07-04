@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\FlickeringLight.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
