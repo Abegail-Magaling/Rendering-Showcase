@@ -11,6 +11,11 @@ scopes = {
 	"last_search.98CF4AA6" = ""
 	"OpenInspectorPreview.98CF4AA6" = "0"
 	"currentGroup.98CF4AA6" = "scene"
+	"picker_window_position_offset.075BCD15" = "48;401;320;550"
+	"picker_visibility_flags.075BCD15" = "264"
+	"picker_item_size.075BCD15" = "96"
+	"picker_inspector.075BCD15" = "0"
+	"picker_current_group.075BCD15" = "all"
 }
 providers = {
 	find = {
