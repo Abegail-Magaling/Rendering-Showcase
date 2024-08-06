@@ -42,3 +42,13 @@ The following packages were updated:
   com.unity.feature.development from version 1.0.1 to 1.0.2
   com.unity.timeline from version 1.6.2 to 1.8.6
   com.unity.visualscripting from version 1.7.6 to 1.8.0
+
+=== Tue Aug  6 20:37:45 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.postprocessing from version 3.2.2 to 3.4.0
+The following packages were removed:
+  com.unity.textmeshpro@3.0.6

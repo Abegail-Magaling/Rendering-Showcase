@@ -13,7 +13,6 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _EMISSION
-  - _METALLICGLOSSMAP
   m_InvalidKeywords: []
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
@@ -50,7 +49,7 @@ Material:
         m_Scale: {x: 0.1, y: 0.1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 601fdb758e6f5844090ec0eb8e4a049a, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -69,9 +68,9 @@ Material:
     - _DstBlend: 0
     - _EmissionScaleUI: 0
     - _GlossMapScale: 0.971
-    - _Glossiness: 0.733
+    - _Glossiness: 1
     - _GlossyReflections: 1
-    - _Metallic: 1
+    - _Metallic: 0.8
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
